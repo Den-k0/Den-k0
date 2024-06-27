@@ -31,7 +31,7 @@ I have been learning to code for the past 2 years. I started with C++, but reall
     <a href="https://www.github.com/Den-k0" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
     </a>
-    <a href="https://www.linkedin.com/in/denys-kotovskyi-6923a319a" target="_blank" rel="noreferrer">
+    <a href="www.linkedin.com/in/denys-kotovskyi" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
     </a>
 </p>
