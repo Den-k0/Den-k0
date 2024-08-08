@@ -2,7 +2,7 @@
 
 ## Software developer
 
-Some text... I have been learning to code for the past 2 years...
+Hello world?🫡
 
 * 🌍 I'm based in Ternopil
 * ✉️ You can contact me at [denys.kotovskiy@gmail.com](mailto:denys.kotovskiy@gmail.com)
